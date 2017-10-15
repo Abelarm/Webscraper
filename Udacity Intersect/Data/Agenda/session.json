@@ -1,0 +1,349 @@
+[
+  {
+    "title": [
+      "Welcome to Intersect"
+    ],
+    "time": [
+      "9:00 AM"
+    ],
+    "location": "Computer History Museum, 1401 N Shoreline Blvd, Mountain View, CA 94043",
+    "microlocation": [
+      "Hahn Auditorium"
+    ],
+    "speakers": {
+      "name": [
+        "Shernaz Daver"
+      ],
+      "organisation": [
+        " Udacity"
+      ]
+    }
+  },
+  {
+    "title": [
+      "Udacity Keynote"
+    ],
+    "time": [
+      "9:10 AM"
+    ],
+    "location": "Computer History Museum, 1401 N Shoreline Blvd, Mountain View, CA 94043",
+    "microlocation": [
+      "Hahn Auditorium"
+    ],
+    "speakers": {
+      "name": [
+        "Vishal Makhijani"
+      ],
+      "organisation": [
+        " Udacity"
+      ]
+    }
+  },
+  {
+    "title": [
+      "Panel: In the Year 2027"
+    ],
+    "time": [
+      "9:40 AM"
+    ],
+    "location": "Computer History Museum, 1401 N Shoreline Blvd, Mountain View, CA 94043",
+    "microlocation": [
+      "Hahn Auditorium"
+    ],
+    "speakers": {
+      "name": [
+        "John Mannes",
+        "Dr. Ashwin Ram",
+        "Dr. Steven Abrams",
+        "Dr. Rana el Kaliouby"
+      ],
+      "organisation": [
+        " TechCrunch",
+        " Amazon Alexa",
+        " IBM Watson",
+        " Affectiva"
+      ]
+    }
+  },
+  {
+    "title": [
+      "Panel: Jobs of Today & Tomorrow"
+    ],
+    "time": [
+      "10:00 AM"
+    ],
+    "location": "Computer History Museum, 1401 N Shoreline Blvd, Mountain View, CA 94043",
+    "microlocation": [
+      "Hahn Auditorium"
+    ],
+    "speakers": {
+      "name": [
+        "Fred Vogelstein",
+        "Peter Lubbers",
+        "Gayle Laakmann McDowell",
+        "Greg Estes"
+      ],
+      "organisation": [
+        " Author",
+        " Google Developer Training",
+        " CareerCup",
+        " NVIDIA"
+      ]
+    }
+  },
+  {
+    "title": [
+      "Sebastian Q&A + Student Stories"
+    ],
+    "time": [
+      "10:35 AM"
+    ],
+    "location": "Computer History Museum, 1401 N Shoreline Blvd, Mountain View, CA 94043",
+    "microlocation": [
+      "Hahn Auditorium"
+    ],
+    "speakers": {
+      "name": [
+        "Sebastian Thrun"
+      ],
+      "organisation": [
+        " Udacity"
+      ]
+    }
+  },
+  {
+    "title": [
+      "Keynote: Robotics"
+    ],
+    "time": [
+      "11:00 AM"
+    ],
+    "location": "Computer History Museum, 1401 N Shoreline Blvd, Mountain View, CA 94043",
+    "microlocation": [
+      "Hahn Auditorium"
+    ],
+    "speakers": {
+      "name": [
+        "Yoky Matsuoka"
+      ],
+      "organisation": [
+        " Nest"
+      ]
+    }
+  },
+  {
+    "title": [
+      "Fireside Chat: Steve Blank in conversation with Sebastian Thrun"
+    ],
+    "time": [
+      "11:20 AM"
+    ],
+    "location": "Computer History Museum, 1401 N Shoreline Blvd, Mountain View, CA 94043",
+    "microlocation": [
+      "Hahn Auditorium"
+    ],
+    "speakers": {
+      "name": [
+        "Steve Blank",
+        "Sebastian Thrun"
+      ],
+      "organisation": [
+        " Stanford University",
+        " Udacity"
+      ]
+    }
+  },
+  {
+    "title": [
+      "Lunch"
+    ],
+    "time": [
+      "12:00 PM"
+    ],
+    "location": "Computer History Museum, 1401 N Shoreline Blvd, Mountain View, CA 94043",
+    "microlocation": [
+      "Hahn Auditorium"
+    ],
+    "speakers": {
+      "name": [],
+      "organisation": []
+    }
+  },
+  {
+    "title": [
+      "Employer Showcase",
+      "Virtual Reality Experience",
+      "Professional Photos"
+    ],
+    "time": [
+      "1:00 PM"
+    ],
+    "location": "Computer History Museum, 1401 N Shoreline Blvd, Mountain View, CA 94043",
+    "microlocation": [],
+    "speakers": {
+      "name": [],
+      "organisation": []
+    }
+  },
+  {
+    "title": [
+      "Perfect Your Pitch: Memorable Networking Tactics",
+      "Cracking the Coding Interview",
+      "Deep Learning & Creativity"
+    ],
+    "time": [
+      "1:00 PM"
+    ],
+    "location": "Computer History Museum, 1401 N Shoreline Blvd, Mountain View, CA 94043",
+    "microlocation": [
+      "Hahn Auditorium",
+      "Lovelace"
+    ],
+    "speakers": {
+      "name": [],
+      "organisation": []
+    }
+  },
+  {
+    "title": [
+      "The Present & Future of Self-Driving Cars",
+      "Udacity Blitz - Closing the Loop between Education & Work",
+      "Deep Learning & Creativity"
+    ],
+    "time": [
+      "2:00 PM"
+    ],
+    "location": "Computer History Museum, 1401 N Shoreline Blvd, Mountain View, CA 94043",
+    "microlocation": [
+      "Hahn Auditorium",
+      "Lovelace"
+    ],
+    "speakers": {
+      "name": [],
+      "organisation": []
+    }
+  },
+  {
+    "title": [
+      "The Present & Future of Self-Driving Cars",
+      "Udacity Blitz - Closing the Loop between Education & Work",
+      "How Do We Prevent an AI Apocalypse?"
+    ],
+    "time": [
+      "3:00 PM"
+    ],
+    "location": "Computer History Museum, 1401 N Shoreline Blvd, Mountain View, CA 94043",
+    "microlocation": [
+      "Hahn Auditorium",
+      "Lovelace"
+    ],
+    "speakers": {
+      "name": [],
+      "organisation": []
+    }
+  },
+  {
+    "title": [
+      "Panel: Technology & Social Good"
+    ],
+    "time": [
+      "4:30 PM"
+    ],
+    "location": "Computer History Museum, 1401 N Shoreline Blvd, Mountain View, CA 94043",
+    "microlocation": [
+      "Hahn Auditorium"
+    ],
+    "speakers": {
+      "name": [
+        "Stuart Frye",
+        "Brian Pinkerton",
+        "Matt Merrield",
+        "Jennifer Dulski"
+      ],
+      "organisation": [
+        " Udacity",
+        " Chan Zuckerberg Initiative",
+        " The Nature Conservancy",
+        " Change.org"
+      ]
+    }
+  },
+  {
+    "title": [
+      "Keynote: Conversational AI in Amazon Alexa"
+    ],
+    "time": [
+      "4:50 PM"
+    ],
+    "location": "Computer History Museum, 1401 N Shoreline Blvd, Mountain View, CA 94043",
+    "microlocation": [
+      "Hahn Auditorium"
+    ],
+    "speakers": {
+      "name": [
+        "Dr. Ashwin Ram"
+      ],
+      "organisation": [
+        " Amazon Alexa"
+      ]
+    }
+  },
+  {
+    "title": [
+      "Keynote: Advent of Virtual Reality"
+    ],
+    "time": [
+      "5:00 PM"
+    ],
+    "location": "Computer History Museum, 1401 N Shoreline Blvd, Mountain View, CA 94043",
+    "microlocation": [
+      "Hahn Auditorium"
+    ],
+    "speakers": {
+      "name": [
+        "Maureen Fan"
+      ],
+      "organisation": [
+        " Baobab Studios"
+      ]
+    }
+  },
+  {
+    "title": [
+      "Fireside Chat: Astro Teller in conversation with Sebastian Thrun"
+    ],
+    "time": [
+      "5:15 PM"
+    ],
+    "location": "Computer History Museum, 1401 N Shoreline Blvd, Mountain View, CA 94043",
+    "microlocation": [
+      "Hahn Auditorium"
+    ],
+    "speakers": {
+      "name": [
+        "Astro Teller",
+        "Sebastian Thrun"
+      ],
+      "organisation": [
+        " X, Alphabet",
+        " Udacity"
+      ]
+    }
+  },
+  {
+    "title": [
+      "Intersect After-Party"
+    ],
+    "time": [
+      "6:00 PM"
+    ],
+    "location": "Computer History Museum, 1401 N Shoreline Blvd, Mountain View, CA 94043",
+    "microlocation": [
+      "Hahn Auditorium"
+    ],
+    "speakers": {
+      "name": [],
+      "organisation": []
+    }
+  }
+]
