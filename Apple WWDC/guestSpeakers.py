@@ -13,7 +13,8 @@ Soup = BS(data, 'lxml')
 path = "Apple WWDC/Data/Guest Speakers/"
 if not os.path.exists(path):
     os.makedirs(path)
-with io.open('Apple WWDC/Data/Guest Speakers/GuestSpeakers_data.json', 'w', encoding='utf8') as outfile:
+with io.open('Apple WWDC/Data/Guest Speakers/guest_speakers_data.json',
+             'w', encoding='utf8') as outfile:
     guest = {'speakers': [], 'description': [], 'date-time': []}
     for ele in Soup.find_all('p', {'class': 'heading'}):
         guest['speakers'].append(ele.text)

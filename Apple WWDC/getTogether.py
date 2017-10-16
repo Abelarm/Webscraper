@@ -30,7 +30,8 @@ for x, y, z in zip(title, description, locationAndTime):
     dictionary["title"].append(x.text)
     dictionary["description"].append(clean_data(y.text))
     dictionary["location and time"].append(clean_data(z.text))
-with io.open('Apple WWDC/Data/Get Together/get_together.json', 'w', encoding='utf8') as outfile:
+with io.open('Apple WWDC/Data/Get Together/get_togethers_data.json',
+             'w', encoding='utf8') as outfile:
     str_ = json.dumps(dictionary, indent=2, sort_keys=False,
                       separators=(',', ': '), ensure_ascii=False)
     outfile.write(to_unicode(str_))
